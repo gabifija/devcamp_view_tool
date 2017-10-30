@@ -6,7 +6,7 @@ require "devcamp_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "devcamp_view_tool"
   spec.version       = DevcampViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Gabi Fiolek"]
   spec.email         = ["gabriela@assembla.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
